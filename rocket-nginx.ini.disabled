@@ -14,7 +14,7 @@ debug = false
 
 ; WP-Content folder
 ; Default value: wp-content
-wp_content_folder = wp-content
+wp_content_folder = app
 
 ; HTML Cache-Control
 ; Cache control header to use for html files
